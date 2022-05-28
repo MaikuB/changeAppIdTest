@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="dev.dexterx.flutter3notifications">
+    package="com.testpackage.name">
    <application
         android:label="flutter3notifications"
         android:name="${applicationName}"

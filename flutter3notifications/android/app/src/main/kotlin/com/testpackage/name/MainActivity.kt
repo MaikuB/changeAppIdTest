@@ -1,4 +1,4 @@
-package dev.dexterx.flutter3notifications
+package com.testpackage.name
 
 import io.flutter.embedding.android.FlutterActivity
 
